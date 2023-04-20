@@ -1,4 +1,4 @@
-# Priors by Stock
+# Effort by Stock
 
 ## Workshop demo
 
@@ -23,11 +23,9 @@ The four Workshop demos are:
 
 ## VRE tests
 
-For the purposes of VRE tests, a run is successful if it produces a `report`
-folder containing at least one PDF file.
-
-Note that the VRE can also produce some "engine noise", warnings that are
-related to the VRE configuration and do not prevent successful SOFIA-TAF runs.
+Note that a variety of warnings and errors may be shown, but for the purposes of
+VRE tests, a run is successful if it produces a `report` folder containing at
+least one PDF file.
 
 ## Further information
 
@@ -35,4 +33,4 @@ See [sofia-taf/doc](https://github.com/sofia-taf/doc#readme) and the [SOFIA-TAF
 tutorial](https://github.com/sofia-taf/doc/blob/main/sofia_taf_tutorial.md).
 
 This demo is a special Workshop version of
-[2022Area31DemoEffortShared](https://github.com/sofia-taf/2022Area31DemoEffortShared).
+[2022Area31DemoEffortByStock](https://github.com/sofia-taf/2022Area31DemoEffortByStock).
